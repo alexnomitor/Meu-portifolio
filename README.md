@@ -1,3 +1,3 @@
 # Meu-portfólio
 
-Projeto criadocom, html css e javascript 
+Projeto criado com, html css e javascript! farei algumas atulizações  até o final do curso.
